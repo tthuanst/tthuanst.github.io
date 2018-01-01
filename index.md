@@ -2,7 +2,7 @@
 
 1. Knowledge Based System
     1. Assignment: 8 puzzle  
-        ![Requirement](../img/8puzzle.png)
+        ![Requirement](../img/8puzzle.png)  
         [my code](https://drive.google.com/open?id=0B_p-lckY-aySZktLVkxQblpNVzA)
         [reference code](https://drive.google.com/open?id=0B_p-lckY-aySaFF0SzhELU1DWUE)
     1. Final project: ontology
