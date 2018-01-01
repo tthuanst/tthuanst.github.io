@@ -17,18 +17,18 @@
 1. Advance Graph Algorithms
     1. Assignments:
         * Boruvka algorithm to find MST (Minimun Spanning Tree)  
-            ![input generation](https://drive.google.com/open?id=0B_p-lckY-aySelM2Q0RZcXZNMk0)  
-            ![output result](https://drive.google.com/open?id=0B_p-lckY-ayST1hONDJ2SnAxbnc)  
+            ![input generation](img/ex1_init.png)  
+            ![output result](img/ex1_mst_only.png)  
         * Dijkstra's algorithm to find SSSP (Single Source Shortest Path)  
-            ![input generation](https://drive.google.com/open?id=0B_p-lckY-aySNVRrcWFSZ0NrTVU)  
-            ![output result](https://drive.google.com/open?id=0B_p-lckY-aySTGFBVWtFTjZtSWM)  
+            ![input generation](img/ex2_init.png)  
+            ![output result](img/ex2_sssp_only.png)  
         * Find Maximal, Maximum Matching in Bipartite graph  
-            ![input generation](https://drive.google.com/open?id=0B_p-lckY-aySY0VQb2lpbzVXem8)  
-            ![output result](https://drive.google.com/open?id=0B_p-lckY-aySeVNzdmR4YTQ1aU0)  
-            ![output result](https://drive.google.com/open?id=0B_p-lckY-aySVUtrdnhIU25KN3c)  
+            ![input generation](img/ex3_init.png)  
+            ![output result](img/ex3_maximal.png)  
+            ![output result](img/ex3_maximum.png)  
         * Find maximum flow  
-            ![input generation](https://drive.google.com/open?id=0B_p-lckY-aySQ1pab2F0N3dfM3c)  
-            ![output result](https://drive.google.com/open?id=0B_p-lckY-aySZWU5aWxaMElQZHM)  
+            ![input generation](img/ex4_init.png)  
+            ![output result](img/ex4_maxflow.png)  
     1. Final survey: SSSP  
         [document](https://drive.google.com/open?id=0B_p-lckY-aySaXpjLTdwQTNNWWM)  
         [Latex source](https://drive.google.com/open?id=0B_p-lckY-aySUHpkQmtfejUzbEU)  
@@ -62,7 +62,7 @@
         [example code 3](https://drive.google.com/open?id=0B_p-lckY-aySajEybkhvN2xweGs)  
         [example code 4](https://drive.google.com/open?id=0B_p-lckY-aySZE5nbE5uYWZKNXM)  
         [example code 5](https://drive.google.com/open?id=0B_p-lckY-aySTTV2OF8wa1VoVDA)  
-    1. Final project: Fast RCNN
+    1. Final project: Fast RCNN  
         [slide](https://drive.google.com/open?id=0B_p-lckY-aySSm4wM2Q3UXlWOVE)  
         [my code](link)  
 
