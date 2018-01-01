@@ -59,7 +59,7 @@
         [example code 5](https://drive.google.com/open?id=0B_p-lckY-aySTTV2OF8wa1VoVDA)
     1. Final project: study Fast RCNN and how to deploy
         [slide](https://drive.google.com/open?id=0B_p-lckY-aySSm4wM2Q3UXlWOVE)
-        [my code](link)
+        [my code](https://drive.google.com/open?id=1zjrtpixZwaeK5oDMo_WyjOQ9rQXLkVt2)
 
 1. Natural Language Processing
     1. Assignment: Part-Of-Speech (POS) tag use Hidden Markov Model (HMM)
@@ -67,7 +67,7 @@
         [my code](https://drive.google.com/open?id=0B_p-lckY-ayScnVzdnhmV1dKUDA)
     1. Final project: Maximum entropy model
         [slide](https://drive.google.com/open?id=1DBN6ZY9jxfj3H3_m7dokK0_EOBfMu8q2)
-        [my code](link)
+        [my code](https://drive.google.com/open?id=1rEFqW9zk-6fujSaEsNb03_2DZmHTg74-)
 
 1. Information Retrieval
     1. Assignment: Term dictionary & posting list compression
