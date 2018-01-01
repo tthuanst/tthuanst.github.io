@@ -17,18 +17,13 @@
 1. Advance Graph Algorithms
     1. Assignments:
         * Boruvka algorithm to find MST (Minimun Spanning Tree)  
-            ![input generation](../img/ex1_init.png)  
-            ![output result](../img/ex1_mst_only.png)  
+            [my code](https://drive.google.com/open?id=0B_p-lckY-aySRHhmOFc2MDRGdTQ)
         * Dijkstra's algorithm to find SSSP (Single Source Shortest Path)  
-            ![input generation](../img/ex2_init.png)  
-            ![output result](../img/ex2_sssp_only.png)  
+            [my code](https://drive.google.com/open?id=0B_p-lckY-aySeGdrYkIydnF0V2M)
         * Find Maximal, Maximum Matching in Bipartite graph  
-            ![input generation](../img/ex3_init.png)  
-            ![output result](../img/ex3_maximal.png)  
-            ![output result](../img/ex3_maximum.png)  
+            [my code](https://drive.google.com/open?id=0B_p-lckY-aySM1ptbnNhOEFPTHM)
         * Find maximum flow  
-            ![input generation](../img/ex4_init.png)  
-            ![output result](../img/ex4_maxflow.png)  
+            [my code](https://drive.google.com/open?id=0B_p-lckY-aySa0RLQWc4ZmZiMk0)
     1. Final survey: SSSP  
         [document](https://drive.google.com/open?id=0B_p-lckY-aySaXpjLTdwQTNNWWM)  
         [Latex source](https://drive.google.com/open?id=0B_p-lckY-aySUHpkQmtfejUzbEU)  
