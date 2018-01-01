@@ -2,7 +2,7 @@
 
 1. Knowledge Based System
     1. Assignment: 8 puzzle  
-        ![Requirement](img/8puzzle.png)  
+        ![Requirement](../img/8puzzle.png)  
         [my code](https://drive.google.com/open?id=0B_p-lckY-aySZktLVkxQblpNVzA)  
         [reference code](https://drive.google.com/open?id=0B_p-lckY-aySaFF0SzhELU1DWUE)  
     1. Final project: ontology  
@@ -17,18 +17,18 @@
 1. Advance Graph Algorithms
     1. Assignments:
         * Boruvka algorithm to find MST (Minimun Spanning Tree)  
-            ![input generation](img/ex1_init.png)  
-            ![output result](img/ex1_mst_only.png)  
+            ![input generation](../img/ex1_init.png)  
+            ![output result](../img/ex1_mst_only.png)  
         * Dijkstra's algorithm to find SSSP (Single Source Shortest Path)  
-            ![input generation](img/ex2_init.png)  
-            ![output result](img/ex2_sssp_only.png)  
+            ![input generation](../img/ex2_init.png)  
+            ![output result](../img/ex2_sssp_only.png)  
         * Find Maximal, Maximum Matching in Bipartite graph  
-            ![input generation](img/ex3_init.png)  
-            ![output result](img/ex3_maximal.png)  
-            ![output result](img/ex3_maximum.png)  
+            ![input generation](../img/ex3_init.png)  
+            ![output result](../img/ex3_maximal.png)  
+            ![output result](../img/ex3_maximum.png)  
         * Find maximum flow  
-            ![input generation](img/ex4_init.png)  
-            ![output result](img/ex4_maxflow.png)  
+            ![input generation](../img/ex4_init.png)  
+            ![output result](../img/ex4_maxflow.png)  
     1. Final survey: SSSP  
         [document](https://drive.google.com/open?id=0B_p-lckY-aySaXpjLTdwQTNNWWM)  
         [Latex source](https://drive.google.com/open?id=0B_p-lckY-aySUHpkQmtfejUzbEU)  
