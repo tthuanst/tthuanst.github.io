@@ -1,6 +1,7 @@
 #For something have done during master degree of Computer Science
 
 1. Knowledge Based System
+    1. [Materials](https://drive.google.com/open?id=1bGLklDmTdfqLShpApHglA0a7_zTg82hQ)
     1. Assignment: 8 puzzle  
         ![Requirement](../img/8puzzle.png)  
         [my code](https://drive.google.com/open?id=0B_p-lckY-aySZktLVkxQblpNVzA)
@@ -10,11 +11,13 @@
         [my code](https://drive.google.com/open?id=0B_p-lckY-aySbEZ6Ry02c0JTbnc)
 
 1. Randomized algorithms
-    * Exercises: handwritting paper (nothing here)
-    * Final: Success Amplification and Random Sampling
+    1. [Materials](https://drive.google.com/open?id=0B_p-lckY-aySVzYxbmJXcFNkUXM)
+    1. Exercises: handwritting paper (nothing here)
+    1. Final: Success Amplification and Random Sampling
         [slide](https://drive.google.com/open?id=0B_p-lckY-aySZVFySU1wWGZiZkE)
 
 1. Advance Graph Algorithms
+    1. [Materials](https://drive.google.com/open?id=1Cog_0nZacrOFej1rcyPRIIsWiUs2nQ4a)
     1. Assignments:
         * Boruvka algorithm to find MST (Minimun Spanning Tree)
             [my code](https://drive.google.com/open?id=0B_p-lckY-aySRHhmOFc2MDRGdTQ)
@@ -29,6 +32,7 @@
         [Latex source](https://drive.google.com/open?id=0B_p-lckY-aySUHpkQmtfejUzbEU)
 
 1. Machine Learning
+    1. [Materials](https://drive.google.com/open?id=1ppa9GX15b5CeROdlJyDB05OE84b-98EO)
     1. Exercises:
         * R language, Weka tool
             [Requirement](https://drive.google.com/open?id=0B_p-lckY-aySdTByWVJZM09LTVE)
@@ -50,6 +54,7 @@
         [Latex source](https://drive.google.com/open?id=0B_p-lckY-aySNURuMkNuWW5Gc1E)
 
 1. Computer Vision
+    1. [Materials](https://drive.google.com/open?id=1fqz4oOFyqLnSpdFTHBjVfdOLcoHxVeN1)
     1. Exercises: try some algorithms available in matlab
         [slide](https://drive.google.com/open?id=0B_p-lckY-aySTWNHSFN2cjFJWWM)
         [example code 1](https://drive.google.com/open?id=0B_p-lckY-aySNVJqdndXd3I5WVk)
@@ -62,6 +67,7 @@
         [my code](https://drive.google.com/open?id=1zjrtpixZwaeK5oDMo_WyjOQ9rQXLkVt2)
 
 1. Natural Language Processing
+    1. [Materials](https://drive.google.com/open?id=1xzjFETRDr8WZvVu7z5Cyafg42XTiA2qH)
     1. Assignment: Part-Of-Speech (POS) tag use Hidden Markov Model (HMM)
         [slide](https://drive.google.com/open?id=0B_p-lckY-aySb01sUlRiWUJWZUU)
         [my code](https://drive.google.com/open?id=0B_p-lckY-ayScnVzdnhmV1dKUDA)
@@ -70,6 +76,7 @@
         [my code](https://drive.google.com/open?id=1rEFqW9zk-6fujSaEsNb03_2DZmHTg74-)
 
 1. Information Retrieval
+    1. [Materials](https://drive.google.com/open?id=1TSRdCxFelriP6lTuLClPa4aY4W3Dapa_)
     1. Assignment: Term dictionary & posting list compression
         [slide](https://drive.google.com/open?id=1cAiDYSOeMKFkO7BZldcyoBWMh6JI78HX)
         [document](https://drive.google.com/open?id=167D1DA7uf9A3dGs3MY5VX8cev-cGffrF)
@@ -77,7 +84,9 @@
         [my code](https://github.com/tthuanst/tdt_ir)
 
 1. Digital Image Processing
+    1. [Materials](https://drive.google.com/open?id=1W1w43J_rm2ahTl2tjW45E86iHEdSuoLZ)
     1. Assignment: Fingerprint recognition
         [slide](https://drive.google.com/open?id=1TuvWdM-sEQS4NaC77dGX7HT0MNeAaKS8)
 
 1. Mining Massive Datasets
+    1. [Materials](https://drive.google.com/open?id=1YdDWgmKLQRCtiSNHExFCibOiapgJvfQX)
