@@ -90,3 +90,9 @@
 
 1. Mining Massive Datasets
     1. [Materials](https://drive.google.com/open?id=1YdDWgmKLQRCtiSNHExFCibOiapgJvfQX)
+
+1. Thesis: Image enhancement using deep learning
+    1. [Materials](https://drive.google.com/open?id=1xGM6p1aEWvyCqKOqfbPZdYlq95il6xg0)
+    1. [my document](https://drive.google.com/open?id=1_SlcMZQkY9f0QNqh717Dvey4sEjfVSTT)
+    1. [my code](https://drive.google.com/open?id=1RryhMlevM49vPfPJGUrNkE_PoVjQ1XQT)
+    1. [my slides](https://drive.google.com/open?id=1Hl7HKTYWBwQmfW_qPqh9B-td6hWQkecy)
